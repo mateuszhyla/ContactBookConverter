@@ -1,2 +1,5 @@
 *.txt
 *.cbp
+/bin
+/obj
+*.depend
